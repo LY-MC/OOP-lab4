@@ -1,0 +1,6 @@
+# OOP-lab4
+
+The client appears randomly every hour. When he wants to enter the zoo, he can buy a ticket for a certain price depending on whether he is a child or not and enter the zoo. Sometimes cashier doesn't have tickets, so the client can't buy a ticket and enter the zoo. But if a security guard is sleeping, a client can sneak into the zoo. Also, each client has a happiness scale, so if a cashier is rude, happiness is going down.
+Initially, I randomly initiated ill and hungry animals, so the zookeeper should feed them and the veterinarian should treat them. But sometimes zookeeper is inattentive and gives the animal the wrong food, so then the veterinarian needs to treat them. Also because some of the animals are older, they are ill more often. The happiness of the client also depends on how many animals are ill.
+Then every child that enters the zoo and sees the horses wants to ride one of them, but depending on age sometimes he can't ride, sometimes he can ride only a pony, and sometimes a horse. But the horse can be ill, so it can't ride anyone or it isn't in the mood, so it could be dangerous for a child to ride a such horse or it can ride someone. The happiness of the child increased if he rode a horse. 
+Then the cashier can receive tips if a client is happy enough or should return money if the client is unhappy.
